@@ -1,0 +1,34 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "040-123456",
+      "id": 1
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "39-44-5323522",
+      "id": 2
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": 3
+    },
+    {
+      "name": "Mary Poppendieck",
+      "number": "14-8741679",
+      "id": 7
+    },
+    {
+      "name": "Full Stack Open",
+      "number": "12-7628943",
+      "id": 8
+    },
+    {
+      "name": "Gonzalo Coradello",
+      "number": "87-6543210",
+      "id": 9
+    }
+  ]
+}
